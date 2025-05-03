@@ -1,0 +1,80 @@
+body {
+    font-family: 'Inter', sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.container {
+    max-width: 1400px;
+}
+
+header {
+    background: linear-gradient(to right, #ffffff, #e5e7eb);
+}
+
+header.dark {
+    background: linear-gradient(to right, #1f2937, #374151);
+}
+
+img#videoFeed {
+    border: 4px solid #1e293b;
+    background-color: #1e293b;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.text-4xl font-playfair mb-4
+
+img#videoFeed:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(20, 184, 166, 0.5);
+}
+
+.btn {
+    @apply flex items-center justify-center px-6 py-3 rounded-full text-white font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-lg;
+}
+
+.btn-teal { @apply bg-teal-600 hover:bg-teal-700; }
+.btn-red { @apply bg-red-600 hover:bg-red-700; }
+.btn-green { @apply bg-green-600 hover:bg-green-700; }
+.btn-purple { @apply bg-purple-600 hover:bg-purple-700; }
+.btn-gray { @apply bg-gray-600 hover:bg-gray-700; }
+
+.btn .group:hover svg {
+    transform: translateX(4px);
+    transition: transform 0.3s ease;
+}
+
+.shadow-glow {
+    box-shadow: 0 0 15px rgba(20, 184, 166, 0.4);
+}
+
+.animate-slide-in {
+    animation: slideIn 0.8s ease-out;
+}
+
+.animate-fade-in {
+    animation: fadeIn 1s ease-out;
+}
+
+@keyframes slideIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+[title]:hover:after {
+    content: attr(title);
+    @apply absolute bg-gray-800 text-white text-sm rounded px-2 py-1 mt-2;
+    z-index: 10;
+}
+
+.dark [title]:hover:after {
+    @apply bg-gray-600;
+}
+
