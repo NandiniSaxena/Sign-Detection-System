@@ -1,0 +1,223 @@
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+2025-05-03 23:11:36  0          83.65%      Closed fist
+2025-05-03 23:11:38  0          93.36%      Closed fist
+2025-05-03 23:11:40  2          80.78%      Index and middle fingers extended
+2025-05-03 23:11:42  0          89.72%      Closed fist
+2025-05-03 23:11:45  0          82.59%      Closed fist
+2025-05-03 23:11:46  0          81.96%      Closed fist
+2025-05-03 23:11:46  0          82.32%      Closed fist
+2025-05-03 23:11:46  0          94.28%      Closed fist
+2025-05-03 23:11:46  0          96.07%      Closed fist
+2025-05-03 23:11:47  0          89.01%      Closed fist
+2025-05-03 23:11:47  0          97.07%      Closed fist
+2025-05-03 23:11:47  0          97.82%      Closed fist
+2025-05-03 23:11:47  0          95.43%      Closed fist
+2025-05-03 23:11:47  0          96.68%      Closed fist
+2025-05-03 23:11:48  0          98.55%      Closed fist
+2025-05-03 23:11:48  0          97.16%      Closed fist
+2025-05-03 23:11:48  0          87.12%      Closed fist
+2025-05-03 23:11:50  0          87.78%      Closed fist
+2025-05-03 23:11:52  8          91.08%      Thumb, index, and pinky extended
+2025-05-03 23:11:54  8          84.21%      Thumb, index, and pinky extended
+2025-05-03 23:11:55  8          80.10%      Thumb, index, and pinky extended
+2025-05-03 23:11:55  2          80.35%      Index and middle fingers extended
+2025-05-03 23:12:07  8          85.46%      Thumb, index, and pinky extended
+2025-05-03 23:12:08  8          82.16%      Thumb, index, and pinky extended
+2025-05-03 23:12:08  8          94.26%      Thumb, index, and pinky extended
+2025-05-03 23:12:08  8          92.01%      Thumb, index, and pinky extended
+2025-05-03 23:12:22  5          97.44%      All fingers extended, palm open
+2025-05-03 23:12:22  5          98.53%      All fingers extended, palm open
+2025-05-03 23:12:23  5          98.55%      All fingers extended, palm open
+2025-05-03 23:12:23  5          98.20%      All fingers extended, palm open
+2025-05-03 23:12:23  5          97.07%      All fingers extended, palm open
+2025-05-03 23:12:23  5          97.22%      All fingers extended, palm open
+2025-05-03 23:12:23  5          98.24%      All fingers extended, palm open
+2025-05-03 23:12:24  5          94.50%      All fingers extended, palm open
+2025-05-03 23:12:24  5          99.20%      All fingers extended, palm open
+2025-05-03 23:12:24  5          99.77%      All fingers extended, palm open
+2025-05-03 23:12:24  5          99.71%      All fingers extended, palm open
+2025-05-03 23:12:24  5          99.79%      All fingers extended, palm open
+2025-05-03 23:12:25  5          99.84%      All fingers extended, palm open
+2025-05-03 23:12:25  5          99.70%      All fingers extended, palm open
+2025-05-03 23:12:25  5          99.78%      All fingers extended, palm open
+2025-05-03 23:12:25  5          99.60%      All fingers extended, palm open
+2025-05-03 23:12:25  5          99.38%      All fingers extended, palm open
+2025-05-03 23:12:26  5          99.54%      All fingers extended, palm open
+2025-05-03 23:12:26  5          94.67%      All fingers extended, palm open
+2025-05-03 23:12:26  5          97.89%      All fingers extended, palm open
+2025-05-03 23:12:26  5          98.27%      All fingers extended, palm open
+2025-05-03 23:12:27  5          97.20%      All fingers extended, palm open
+2025-05-03 23:12:27  5          97.56%      All fingers extended, palm open
+2025-05-03 23:12:28  5          97.66%      All fingers extended, palm open
+2025-05-03 23:12:29  5          96.26%      All fingers extended, palm open
+2025-05-03 23:12:29  5          97.80%      All fingers extended, palm open
+2025-05-03 23:12:29  5          96.86%      All fingers extended, palm open
+2025-05-03 23:12:29  5          96.18%      All fingers extended, palm open
+2025-05-03 23:12:29  5          97.86%      All fingers extended, palm open
+2025-05-03 23:12:31  5          99.13%      All fingers extended, palm open
+2025-05-03 23:12:31  5          99.06%      All fingers extended, palm open
+2025-05-03 23:12:31  5          98.35%      All fingers extended, palm open
+2025-05-03 23:12:32  5          98.96%      All fingers extended, palm open
+2025-05-03 23:12:32  5          98.36%      All fingers extended, palm open
+2025-05-03 23:12:32  5          98.62%      All fingers extended, palm open
+2025-05-03 23:12:32  5          98.49%      All fingers extended, palm open
+2025-05-03 23:12:32  5          92.97%      All fingers extended, palm open
+2025-05-03 23:12:33  1          87.93%      Index finger extended
+2025-05-03 23:12:34  1          91.24%      Index finger extended
+2025-05-03 23:12:34  1          91.21%      Index finger extended
+2025-05-03 23:12:34  1          97.74%      Index finger extended
+2025-05-03 23:12:34  1          92.56%      Index finger extended
+2025-05-03 23:12:34  1          90.37%      Index finger extended
+2025-05-03 23:12:35  1          90.44%      Index finger extended
+2025-05-03 23:12:35  1          95.10%      Index finger extended
+2025-05-03 23:12:35  1          85.03%      Index finger extended
+2025-05-03 23:12:35  1          89.70%      Index finger extended
+2025-05-03 23:12:36  1          86.73%      Index finger extended
+2025-05-03 23:12:36  1          89.69%      Index finger extended
+2025-05-03 23:12:37  5          90.34%      All fingers extended, palm open
+2025-05-03 23:12:37  5          98.19%      All fingers extended, palm open
+2025-05-03 23:12:37  5          81.22%      All fingers extended, palm open
+2025-05-03 23:12:41  1          81.43%      Index finger extended
+2025-05-03 23:12:42  1          82.20%      Index finger extended
+2025-05-03 23:12:43  1          85.14%      Index finger extended
+2025-05-03 23:12:52  1          83.49%      Index finger extended
+2025-05-03 23:12:53  1          85.15%      Index finger extended
+2025-05-03 23:12:57  5          94.23%      All fingers extended, palm open
+2025-05-03 23:12:58  5          97.49%      All fingers extended, palm open
+2025-05-03 23:12:58  5          93.02%      All fingers extended, palm open
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+2025-05-03 23:26:23  5          96.91%      All fingers extended, palm open
+2025-05-03 23:26:23  5          94.41%      All fingers extended, palm open
+2025-05-03 23:26:24  5          95.90%      All fingers extended, palm open
+2025-05-03 23:26:24  5          92.20%      All fingers extended, palm open
+2025-05-03 23:26:24  5          89.91%      All fingers extended, palm open
+2025-05-03 23:26:24  5          90.76%      All fingers extended, palm open
+2025-05-03 23:26:24  5          84.47%      All fingers extended, palm open
+2025-05-03 23:26:24  5          88.80%      All fingers extended, palm open
+2025-05-03 23:26:29  0          81.30%      Closed fist
+2025-05-03 23:26:48  0          83.48%      Closed fist
+2025-05-03 23:26:48  0          88.00%      Closed fist
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+2025-05-03 23:39:25  1          85.52%      Index finger extended
+2025-05-03 23:39:26  1          85.40%      Index finger extended
+2025-05-03 23:39:26  1          86.70%      Index finger extended
+2025-05-03 23:39:27  1          86.18%      Index finger extended
+2025-05-03 23:39:30  1          87.66%      Index finger extended
+2025-05-03 23:39:31  1          89.02%      Index finger extended
+2025-05-03 23:39:31  1          91.39%      Index finger extended
+2025-05-03 23:39:32  1          94.40%      Index finger extended
+2025-05-03 23:39:32  1          84.00%      Index finger extended
+2025-05-03 23:39:33  1          92.20%      Index finger extended
+2025-05-03 23:39:33  1          80.15%      Index finger extended
+2025-05-03 23:39:34  1          90.23%      Index finger extended
+2025-05-03 23:39:38  5          88.57%      All fingers extended, palm open
+2025-05-03 23:39:39  5          88.89%      All fingers extended, palm open
+2025-05-03 23:39:41  5          97.29%      All fingers extended, palm open
+2025-05-03 23:39:42  5          97.87%      All fingers extended, palm open
+2025-05-03 23:39:42  5          97.02%      All fingers extended, palm open
+2025-05-03 23:39:43  5          98.54%      All fingers extended, palm open
+2025-05-03 23:39:43  5          96.98%      All fingers extended, palm open
+2025-05-03 23:39:44  5          98.05%      All fingers extended, palm open
+2025-05-03 23:39:45  5          97.63%      All fingers extended, palm open
+2025-05-03 23:39:45  5          98.86%      All fingers extended, palm open
+2025-05-03 23:39:46  5          98.96%      All fingers extended, palm open
+2025-05-03 23:39:46  5          98.91%      All fingers extended, palm open
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+2025-05-03 23:57:39  1          93.46%      Index finger extended
+2025-05-03 23:57:40  1          94.31%      Index finger extended
+2025-05-03 23:57:40  1          96.17%      Index finger extended
+2025-05-03 23:57:41  1          96.88%      Index finger extended
+2025-05-03 23:57:41  1          98.86%      Index finger extended
+2025-05-03 23:57:42  1          95.20%      Index finger extended
+2025-05-03 23:57:42  0          86.34%      Closed fist
+2025-05-03 23:57:44  1          88.32%      Index finger extended
+2025-05-03 23:57:47  1          84.39%      Index finger extended
+2025-05-03 23:57:48  1          82.55%      Index finger extended
+2025-05-03 23:57:49  1          86.42%      Index finger extended
+2025-05-03 23:57:52  1          83.61%      Index finger extended
+2025-05-03 23:57:53  1          90.78%      Index finger extended
+2025-05-03 23:57:54  1          96.55%      Index finger extended
+2025-05-03 23:57:55  1          99.04%      Index finger extended
+2025-05-03 23:57:56  1          83.27%      Index finger extended
+2025-05-03 23:57:56  1          92.66%      Index finger extended
+2025-05-03 23:57:57  1          89.84%      Index finger extended
+2025-05-03 23:57:58  1          83.99%      Index finger extended
+2025-05-03 23:57:59  1          84.03%      Index finger extended
+2025-05-03 23:58:01  1          90.70%      Index finger extended
+2025-05-03 23:58:01  1          90.01%      Index finger extended
+2025-05-03 23:58:02  1          85.71%      Index finger extended
+2025-05-03 23:58:02  1          91.17%      Index finger extended
+2025-05-03 23:58:12  1          96.56%      Index finger extended
+2025-05-03 23:58:13  1          96.18%      Index finger extended
+2025-05-03 23:58:13  1          96.22%      Index finger extended
+2025-05-03 23:58:14  1          90.64%      Index finger extended
+2025-05-03 23:58:14  1          95.19%      Index finger extended
+2025-05-03 23:58:17  5          83.25%      All fingers extended, palm open
+2025-05-03 23:58:20  5          90.01%      All fingers extended, palm open
+2025-05-03 23:58:21  5          83.09%      All fingers extended, palm open
+2025-05-03 23:58:21  5          95.03%      All fingers extended, palm open
+2025-05-03 23:58:22  1          93.09%      Index finger extended
+2025-05-03 23:58:24  1          95.49%      Index finger extended
+2025-05-03 23:58:25  1          92.62%      Index finger extended
+2025-05-03 23:58:26  1          90.09%      Index finger extended
+2025-05-03 23:58:26  1          81.47%      Index finger extended
+2025-05-03 23:58:28  1          87.13%      Index finger extended
+2025-05-03 23:58:28  1          94.30%      Index finger extended
+2025-05-03 23:58:29  1          83.51%      Index finger extended
+2025-05-03 23:58:29  1          84.48%      Index finger extended
+2025-05-03 23:58:30  1          90.54%      Index finger extended
+2025-05-03 23:58:30  1          86.14%      Index finger extended
+2025-05-03 23:58:31  1          84.08%      Index finger extended
+2025-05-03 23:58:31  1          86.70%      Index finger extended
+2025-05-03 23:58:32  1          85.58%      Index finger extended
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+2025-05-04 00:21:40  1          81.90%      Index finger extended
+2025-05-04 00:21:41  1          84.02%      Index finger extended
+2025-05-04 00:21:44  1          84.71%      Index finger extended
+2025-05-04 00:21:45  1          91.59%      Index finger extended
+2025-05-04 00:21:58  1          84.15%      Index finger extended
+2025-05-04 00:21:59  1          88.99%      Index finger extended
+2025-05-04 00:22:03  1          89.19%      Index finger extended
+2025-05-04 00:22:04  1          89.60%      Index finger extended
+2025-05-04 00:22:05  1          85.44%      Index finger extended
+2025-05-04 00:22:08  1          88.29%      Index finger extended
+2025-05-04 00:22:09  1          93.03%      Index finger extended
+2025-05-04 00:22:09  1          82.77%      Index finger extended
+2025-05-04 00:22:11  1          84.61%      Index finger extended
+2025-05-04 00:22:11  1          90.53%      Index finger extended
+2025-05-04 00:22:12  1          94.28%      Index finger extended
+2025-05-04 00:22:13  1          92.87%      Index finger extended
+2025-05-04 00:22:13  1          88.73%      Index finger extended
+2025-05-04 00:22:14  1          86.77%      Index finger extended
+2025-05-04 00:22:15  1          92.90%      Index finger extended
+2025-05-04 00:22:15  1          92.23%      Index finger extended
+2025-05-04 00:22:16  1          96.19%      Index finger extended
+2025-05-04 00:22:17  1          92.64%      Index finger extended
+2025-05-04 00:22:17  1          91.20%      Index finger extended
+2025-05-04 00:22:18  1          98.02%      Index finger extended
+2025-05-04 00:22:19  1          97.29%      Index finger extended
+2025-05-04 00:22:20  1          98.53%      Index finger extended
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
+2025-05-04 00:33:36  1          89.14%      Index finger extended
+2025-05-04 00:33:37  1          90.09%      Index finger extended
+2025-05-04 00:33:37  1          90.38%      Index finger extended
+2025-05-04 00:33:38  1          81.68%      Index finger extended
+2025-05-04 00:33:38  1          86.97%      Index finger extended
+2025-05-04 00:33:39  1          89.25%      Index finger extended
+2025-05-04 00:33:39  1          90.09%      Index finger extended
+2025-05-04 00:33:39  1          88.72%      Index finger extended
+2025-05-04 00:33:40  1          86.48%      Index finger extended
+Timestamp            Digit      Confidence   Gesture Description
+------------------------------------------------------------
